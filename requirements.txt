@@ -1,4 +1,4 @@
-joblib==1.42
+joblib==1.4.2
 scikit-learn==1.5.2
 flask==3.0.3
 pickleshare==0.75
